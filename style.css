@@ -1,0 +1,76 @@
+* {
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: bold;
+}
+
+nav {
+    background-color: yellow;
+}
+
+ul {
+    float: right;
+    margin-right: 20px;
+}
+
+li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+
+ul li a {
+    color: black;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 7px 13px;
+    border-radius: 3px;
+}
+
+ul li a:hover {
+    background-color: blanchedalmond;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: red;
+    float: inline-start;
+}
+
+h5 {
+    font-size: larger;
+    color: azure;
+}
+
+p {
+    background: light;
+    padding-top: 4%;
+    font-family: 'Courier New', Courier, monospace;
+    color: yellow;
+}
+
+.container {
+    background-image: url(akha.jpeg);
+}
+
+h4 {
+    text-align: center;
+    color: blue;
+}
+
+ form{
+    text-align: center;
+    padding-top: 3;
+    margin: 2%;
+    font-size: larger;
+    color: red;
+}
+.form-group{
+    text-align: center;
+}
+.pi{
+    background-color: greenyellow;
+}
+
+
